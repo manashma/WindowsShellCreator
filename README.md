@@ -10,4 +10,4 @@
 ### Note- You must specify whether you want base64 encoding via the ``` -b64 ``` flag.
 
 ## How to use base64 encode script ?
-#### -> Copy the base64 code and go to victim's computer and type ``` *powershell -e* ``` and paste the copied base64 script [e.g.*powershell -e 'base64encode here'*]
+#### -> Copy the base64 code and go to victim's computer and type *powershell -e* and paste the copied base64 script [e.g.*powershell -e 'base64encode here'*]
